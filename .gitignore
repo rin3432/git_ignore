@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+
+*.tmp
+x64/Debug/
+Assets/modelData/preset/*.DDS
+Assets/shader/*.h
